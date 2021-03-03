@@ -1,0 +1,22 @@
+{
+  "ManifestVersion": 2,
+  "AuthorName": "r0uv3n",
+  "Name": "r0uv3n-BetterLogisticsStations",
+  "DisplayName": "BetterLogisticsStations",
+  "Version": "1.0.0",
+  "Licence": "MIT",
+  "WebsiteURL": "https://github.com/r0uv3n/BetterLogisticsStaions",
+  "Description": "Provides configurations to adjust maximum item counts and maximum item kinds (number of slots) for planetary and interstellar logistics stations",
+  "GameVersion": "",
+  "Dependencies": [
+    "xiaoye97-LDBTool-1.8.0"
+  ],
+  "OptionalDependencies": [],
+  "NetworkMode": "both",
+  "PackageType": "mod",
+  "InstallMode": "managed",
+  "Loaders": [
+    "bepinex"
+  ],
+  "ExtraData": {}
+}
