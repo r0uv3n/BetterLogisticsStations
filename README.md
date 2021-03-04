@@ -2,7 +2,7 @@
 
 This mod provides configurations to adjust the number of slots (also called the MaxItemKinds) and the capacity per item (also called the MaxItemCount) of the planetary and interstellar logistics stations.
 
-![A screenshot of a planetary logistics station with 6 slots and 10000 capacity per item (this is not the default value, this is just for demonstration purposes)](/screenshot.png)
+![A screenshot of a planetary logistics station with 6 slots and 10000 capacity per item (this is not the default value, this is just for demonstration purposes)](https://github.com/r0uv3n/BetterLogisticsStations/blob/master/screenshot.png?raw=true)
 
 By default the capacities are the same as in Vanilla DSP, but the slot count is set to 6 for both the planetary and the interstellar logistics stations. Also, the slot count should *not* be set to more than 6, because the UI is not equipped to handle that many slots (I might try to patch this later, so slot counts up to 12 could be used).
 

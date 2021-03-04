@@ -3,7 +3,7 @@
   "AuthorName": "r0uv3n",
   "Name": "r0uv3n-BetterLogisticsStations",
   "DisplayName": "BetterLogisticsStations",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Licence": "MIT",
   "WebsiteURL": "https://github.com/r0uv3n/BetterLogisticsStations",
   "Description": "Provides configurations to adjust maximum item counts and maximum item kinds (number of slots) for planetary and interstellar logistics stations",
@@ -24,6 +24,6 @@
   "dependencies": [
     "xiaoye97-LDBTool-1.8.0"
   ],
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/r0uv3n/BetterLogisticsStations"
 }
